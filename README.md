@@ -1,2 +1,11 @@
 # ethos6326.github.io
-ethos6326.github.io/portfolio
+### Education
+Integrated Engineering
+
+### Work Experience
+UBC Thunderbikes
+ -  
+UBC Rover
+ - 
+UBC MEMS Lab
+ -
