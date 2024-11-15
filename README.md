@@ -5,6 +5,7 @@
 3rd Year Student
 
 ### Technical Projects
+<img src="/images/pic01.jpg" width="410">
 Completed software and electronics for the team through ROS2 and Arduino. SSH into Raspberry PI 4 onboard for controlling via Wi-fi and processing LiDAR data for mapping.<br />
 												   Skills: C, Arduino/ESP32, Python, ROS2, Git, and Linux.
 ### Technical Experience
