@@ -4,15 +4,18 @@
 **Integrated Engineering, University of British Columbia (UBC)**  
 3rd Year Student
 
-### Work Experience
+### Technical Projects
+Completed software and electronics for the team through ROS2 and Arduino. SSH into Raspberry PI 4 onboard for controlling via Wi-fi and processing LiDAR data for mapping.<br />
+												   Skills: C, Arduino/ESP32, Python, ROS2, Git, and Linux.
+### Technical Experience
 
 **UBC Thunderbikes**  
-- Designed and implemented mechanical components for the electric bike project, focusing on lightweight materials and aerodynamics.
-- Collaborated with a cross-functional team on testing and optimization for performance.
+Using STM32 and CAN to show live data on 3.5 inch display for the rider. Learning Embedded C for CAN implementation and graphics.<br />
+												   Skills: Embedded C, STM32, CANbus, Git, and SPI.
 
 **UBC Rover**  
-- Developed and tested mechanical systems for UBC's Mars Rover project, enhancing durability and terrain adaptability.
-- Assisted in the integration of electronics and sensors to optimize control and feedback mechanisms.
+Used ROS2 to make 2D SLAM Map with LiDAR. Simulated CAD model of the rover for navigation testing in Gazebo. <br />
+												   Skills: C/C++, Python, ROS/ROS2, Git, Linux and FreeRTOS.	
 
 **UBC MEMS Lab**  
 - Conducted research on MEMS actuators, focusing on novel materials for soft robotics applications.
