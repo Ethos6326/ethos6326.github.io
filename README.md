@@ -5,9 +5,11 @@
 3rd Year Student
 
 ### Technical Projects
+**Beverage Delivering RC Car**
 <img src="/images/pic01.jpg" width="410">
-Completed software and electronics for the team through ROS2 and Arduino. SSH into Raspberry PI 4 onboard for controlling via Wi-fi and processing LiDAR data for mapping.<br />
-												   Skills: C, Arduino/ESP32, Python, ROS2, Git, and Linux.
+Completed software and electronics for the team through ROS2 and Arduino. <br />
+Components used: Raspberry Pi 4, Arduino Nano, Motors with encoders, Hokuyo 2D LiDAR, LiPO Battery, and H-Bridge<br />
+												   Skills: C/C++, Arduino, Python, ROS2, Git, and Linux.
 ### Technical Experience
 
 **UBC Thunderbikes**  
