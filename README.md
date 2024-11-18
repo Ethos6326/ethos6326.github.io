@@ -1,15 +1,16 @@
 # Portfolio
 
 ### Education
-**Integrated Engineering, University of British Columbia (UBC)**  
+**Integrated Engineering (Majoring in Electrical Engineering), University of British Columbia (UBC)**  
 3rd Year Student
 
 ### Technical Projects
 **Beverage Delivering RC Car**<br />
-<img src="/images/pic01.jpg" width="410"> <br />
 Completed software and electronics for the team through ROS2 and Arduino. <br />
 Components used: Raspberry Pi 4, Arduino Nano, DC Motors with encoders, Hokuyo 2D LiDAR, LiPO Battery, DC Buck Converter, and H-Bridge.<br />
-												   Skills: C/C++, Arduino, Python, ROS2, Git, and Linux.
+Skills: C/C++, Arduino, Python, ROS2, Git, and Linux.
+<img src="/images/pic01.jpg" width="410"> <br />
+<img src="/images/pic04.jpg" width="410"> <br />
 ### Technical Experience
 
 **UBC Thunderbikes**  
