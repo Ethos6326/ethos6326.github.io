@@ -1,4 +1,4 @@
-# Portfolio
+# ETHAN PERDOMO
 
 ### Education
 **Integrated Engineering (Majoring in Electrical Engineering), University of British Columbia (UBC)**  
