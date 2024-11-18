@@ -11,6 +11,10 @@ Completed software and electronics for the team through ROS2 and Arduino. <br />
 Components used: Raspberry Pi 4, Arduino Nano, DC Motors with encoders, Hokuyo 2D LiDAR, LiPO Battery, DC Buck Converter, and H-Bridge.<br />
 Skills: C/C++, Arduino, Python, ROS2, Git, and Linux.
 <img src="/images/pic01.jpg" width="420"> <br />
+<video width="640" height="360" controls>
+  <source src="(https://github.com/Ethos6326/ethos6326.github.io/tree/main/images/20240404_190325.mp4)" type="video/mp4"> <br />
+</video>
+
 The car was driven with 2 DC motors that used tank-like movements for turning. <br />
 <img src="/images/pic06.png" width="450"> <br />
 <img src="/images/pic04.jpg" width="500"> <br />
