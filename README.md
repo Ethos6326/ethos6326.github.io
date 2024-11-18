@@ -12,8 +12,9 @@ Components used: Raspberry Pi 4, Arduino Nano, DC Motors with encoders, Hokuyo 2
 Skills: C/C++, Arduino, Python, ROS2, Git, and Linux.
 <img src="/images/pic01.jpg" width="420"> <br />
 <video width="640" height="360" controls>
-  <source src="(https://github.com/Ethos6326/ethos6326.github.io/tree/main/images/20240404_190325.mp4)" type="video/mp4"> 
+  <source src="https://raw.githubusercontent.com/Ethos6326/ethos6326.github.io/main/images/20240404_190325.mp4" type="video/mp4">
 </video>
+
 <br />
 The car was driven with 2 DC motors that used tank-like movements for turning. <br />
 <img src="/images/pic06.png" width="450"> <br />
