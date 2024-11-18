@@ -17,11 +17,12 @@ Skills: C/C++, Arduino, Python, ROS2, Git, and Linux.
 
 <br />
 The car was driven with 2 DC motors that used tank-like movements for turning. <br />
-<img src="/images/pic06.png" width="450"> <br />
-<img src="/images/pic04.jpg" width="500"> <br />
+<img src="/images/pic06.png" width="350"> <br />
+<img src="/images/pic04.jpg" width="400"> <br />
 The wiring was hidden in a 3D-printed casing. Since the LiPO was 11.1V, the Raspberry Pi had to be powered through a Buck Converter to step down the voltage. The battery was also connected to the motor controller that powered the motors. <br />
-<img src="/images/pic07.png" width="500"> <br />
+<img src="/images/pic07.png" width="700"> <br />
 This is a poster of our project that was shown at a UBC engineering fair. <br />
+Here is the car is a 2m by 2m grid to
 
 
 ### Technical Experience
