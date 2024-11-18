@@ -22,14 +22,14 @@ The car was driven with 2 DC motors that used tank-like movements for turning. <
 The wiring was hidden in a 3D-printed casing. Since the LiPO was 11.1V, the Raspberry Pi had to be powered through a Buck Converter to step down the voltage. The battery was also connected to the motor controller that powered the motors. <br />
 <img src="/images/pic07.png" width="700"> <br />
 This is a poster of our project that was shown at a UBC engineering fair. <br />
-Here is the car is a 2m by 2m grid to
 
 
 ### Technical Experience
 
 **UBC Thunderbikes**  
 Using STM32 and CAN to show live data on 3.5 inch display for the rider. Learning Embedded C for CAN implementation and graphics.<br />
-												   Skills: Embedded C, STM32, CANbus, Git, and SPI.
+												   Skills: Embedded C, STM32, CANbus, Git, and SPI. <br />
+<img src="/images/pic04.png" width="700"> <br />
 
 **UBC Rover**  
 Used ROS2 to make 2D SLAM Map with LiDAR. Simulated CAD model of the rover for navigation testing in Gazebo. <br />
