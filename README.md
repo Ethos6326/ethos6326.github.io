@@ -5,7 +5,7 @@
 3rd Year Student
 
 ### Technical Projects
-**Beverage Delivering RC Car**
+**Beverage Delivering RC Car**<br />
 <img src="/images/pic01.jpg" width="410">
 Completed software and electronics for the team through ROS2 and Arduino. <br />
 Components used: Raspberry Pi 4, Arduino Nano, Motors with encoders, Hokuyo 2D LiDAR, LiPO Battery, and H-Bridge<br />
