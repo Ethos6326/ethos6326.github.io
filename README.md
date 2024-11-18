@@ -29,7 +29,7 @@ This is a poster of our project that was shown at a UBC engineering fair. <br />
 **UBC Thunderbikes**  
 Using STM32 and CAN to show live data on 3.5 inch display for the rider. Learning Embedded C for CAN implementation and graphics.<br />
 												   Skills: Embedded C, STM32, CANbus, Git, and SPI. <br />
-<img src="/images/pic04.png" width="700"> <br />
+<img src="/images/pic04.png" width="900"> <br />
 
 **UBC Rover**  
 Used ROS2 to make 2D SLAM Map with LiDAR. Simulated CAD model of the rover for navigation testing in Gazebo. <br />
