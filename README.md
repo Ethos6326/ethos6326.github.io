@@ -9,7 +9,7 @@
  <br />
 Completed software and electronics for the team through ROS2 and Arduino. <br />
 Components used: Raspberry Pi 4, Arduino Nano, DC Motors with encoders, Hokuyo 2D LiDAR, LiPO Battery, DC Buck Converter, and H-Bridge.<br />
-Skills: C/C++, Arduino, Python, ROS2, Git, and Linux.
+Skills: C/C++, Arduino, Python, ROS2, Git, and Linux. <br />
 <img src="/images/pic01.jpg" width="320"> <br />
 <video width="640" height="360" controls>
   <source src="https://raw.githubusercontent.com/Ethos6326/ethos6326.github.io/main/images/20240404_190325.mp4" type="video/mp4">
