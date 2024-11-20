@@ -41,7 +41,7 @@ Used ROS2 to make 2D SLAM Map with LiDAR. Simulated CAD model of the rover for n
   <source src="https://raw.githubusercontent.com/Ethos6326/ethos6326.github.io/main/images/SLAM.mp4" type="video/mp4">
 </video>
 This is the MINI ROVER that I tested navigation with. It has a camera in the front that is live-streamed through Wi-fi to a computer nearby using ROS and SSH.<br />
-<video width="640" height="360" controls>
+<video width="768" height="432" controls>
   <source src="https://raw.githubusercontent.com/Ethos6326/ethos6326.github.io/main/images/20240317_190624.mp4" type="video/mp4">
 </video>
 <br />
