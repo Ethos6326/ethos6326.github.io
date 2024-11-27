@@ -34,9 +34,9 @@ Using STM32 and CAN to show live data on a 3.5-inch display for the rider. Learn
 												   Skills: Embedded C, STM32, CANbus, Git, and SPI. <br />
 <img src="/images/pic04.png" width="800"> <br />
 STMCubeMX for the CAN integration.
-<img src="/images/20241123_125125.png" width="700"> <br/>
-Electrical setup for CAN commmunication between STM32 Blue Pills.<br />
-THIS
+<img src="/images/20241123_125125.png" width="700"> <br />
+Electrical setup for CAN communication between STM32 Blue Pills.<br />
+
 
 **UBC Rover**  
 Used ROS2 to make 2D SLAM Map with LiDAR. Simulated CAD model of the rover for navigation testing in Gazebo. <br />
