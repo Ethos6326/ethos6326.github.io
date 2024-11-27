@@ -33,7 +33,7 @@ This poster of our project was shown at a UBC engineering fair. <br />
 Using STM32 and CAN to show live data on a 3.5-inch display for the rider. Learning Embedded C for CAN implementation and graphics.<br />
 												   Skills: Embedded C, STM32, CANbus, Git, and SPI. <br />
 <img src="/images/pic04.png" width="800"> <br />
-STMCubeMX for the CAN integration.
+STMCubeMX for the CAN integration. <br />
 <img src="/images/20241123_125125.jpg" width="400"> <br />
 Electrical setup for CAN communication between STM32 Blue Pills.<br />
 
