@@ -2,7 +2,7 @@
 
 ### Education
 **Integrated Engineering (Majoring in Electrical Engineering), University of British Columbia (UBC)**  
-3rd Year Student
+4th Year Student
 
 ### Technical Projects
 **Beverage Delivering RC Car**<br />
